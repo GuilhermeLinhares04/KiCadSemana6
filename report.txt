@@ -1,0 +1,12 @@
+Atenção: Restrição da correção da largura.  Para as regras atuais do projeto o valor da correção deve estar num intervalo de [0,000001 mm; 0,199999 mm].
+Plotted to 'C:\Users\Guilherme\Documents\projetis\1. KiCad\pon_sem_6\pon_sem_6-F_Cu.gbr'.
+Plotted to 'C:\Users\Guilherme\Documents\projetis\1. KiCad\pon_sem_6\pon_sem_6-B_Cu.gbr'.
+Plotted to 'C:\Users\Guilherme\Documents\projetis\1. KiCad\pon_sem_6\pon_sem_6-F_Paste.gbr'.
+Plotted to 'C:\Users\Guilherme\Documents\projetis\1. KiCad\pon_sem_6\pon_sem_6-B_Paste.gbr'.
+Plotted to 'C:\Users\Guilherme\Documents\projetis\1. KiCad\pon_sem_6\pon_sem_6-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Guilherme\Documents\projetis\1. KiCad\pon_sem_6\pon_sem_6-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Guilherme\Documents\projetis\1. KiCad\pon_sem_6\pon_sem_6-F_Mask.gbr'.
+Plotted to 'C:\Users\Guilherme\Documents\projetis\1. KiCad\pon_sem_6\pon_sem_6-B_Mask.gbr'.
+Plotted to 'C:\Users\Guilherme\Documents\projetis\1. KiCad\pon_sem_6\pon_sem_6-Edge_Cuts.gbr'.
+Arquivo de trabalho do Gerber 'C:\Users\Guilherme\Documents\projetis\1. KiCad\pon_sem_6\pon_sem_6-job.gbrjob' foi criado.
+Informação: Feito.
